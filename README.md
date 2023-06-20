@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **quagli.luca@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucaquaglino/](https://www.linkedin.com/in/lucaquaglino/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/lucaquaglino/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
