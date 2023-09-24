@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://github.com/Lucaquaglino)
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/it/view/programmer-gif-19019116">
+<img align="right" alt="Coding" width="400" src="https://www.dialogfeed.com/wp-content/uploads/2018/03/content-creation.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=0e75b6&style=flat" alt="lucaquaglino" /> </p>
 
 
