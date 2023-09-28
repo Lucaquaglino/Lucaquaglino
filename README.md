@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-//<a href="https://codepen.io/lucaquaglino" target="blank"><img align="center" src="https://tenor.com/it/view/programmer-gif-19019116" alt="lucaquaglino" height="30" width="40" /></a>
 <a href="https://twitter.com/lucaq7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucaq7_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucaquaglino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaquaglino" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22074888/luca-quaglino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="luca quaglino" height="30" width="40" /></a>
