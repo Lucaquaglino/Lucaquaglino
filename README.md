@@ -1,7 +1,7 @@
-[![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_large.gif.medium.gif)](https://github.com/Lucaquaglino)
+[![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif)](https://github.com/Lucaquaglino)
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif">
+<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=0e75b6&style=flat" alt="lucaquaglino" /> </p>
 
 
