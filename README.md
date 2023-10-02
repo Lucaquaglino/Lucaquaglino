@@ -1,4 +1,4 @@
-<font color="red">Status: **Not yet implemented**</font>
+^color:\s*#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$
 <div align="center">
  <img src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.medium.gif" alt="lucaquaglino" />
 
