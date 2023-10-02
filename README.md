@@ -82,12 +82,7 @@
   <a href="https://github.com/Lucaquaglino?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucaquaglino&theme=tokyonight&hide_border=false) &nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaquaglino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!--
-![](https://github-readme-stats.vercel.app/api?username=lucaquaglino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
--->
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
