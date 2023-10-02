@@ -8,8 +8,11 @@
  
 <h1 align="center" > Hi  👋🏼 , I'm Luca </h1>
 
-
+<div align="center>
+ 
  <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=3000&color=E46AF8D2&width=300&lines=Full-stack+developer;from+italy+with+love+%E2%9D%A4%EF%B8%8F">
+ </div>
+ 
 
 <h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>
 <div>
