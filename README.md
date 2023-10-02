@@ -157,7 +157,7 @@
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=lucaquaglino&theme=monokai-metallian&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -187,11 +187,6 @@
 4. ❗️ Closed issue [#43](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/43) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
 5. 🎉 Merged PR [#76](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/76) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
 <!--END_SECTION:activity-->
-
-  <h3>🌟 Sponsors</h3>
-
-  <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
-  <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
 
 </details>
 
