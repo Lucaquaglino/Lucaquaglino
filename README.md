@@ -60,7 +60,8 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/lucaq7_" target="blank"><img src="https://img.shields.io/twitter/follow/lucaq7_?logo=twitter&style=for-the-badge" alt="lucaq7_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/lucaq7_" target="blank"><img src="https://img.shields.io/twitter/follow/lucaq7_?logo=twitter&style=for-the-badge" alt="lucaq7_" /></a> </p>
+<br/>
 
 - 🌱I’m currently learning **at Epicode school,JS and Java**
 
