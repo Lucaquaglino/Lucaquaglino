@@ -63,15 +63,6 @@
 <p align="center"> <a href="https://twitter.com/lucaq7_" target="blank"><img src="https://img.shields.io/twitter/follow/lucaq7_?logo=twitter&style=for-the-badge" alt="lucaq7_" /></a> </p>
 <br/>
 
-- 🌱I’m currently learning **at Epicode school,JS and Java**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Lucaquaglino](https://github.com/Lucaquaglino)
-
-- 💬 Ask me about **Html, css, javascript, angular, java, typescript**
-
-- 📫 How to reach me **quagli.luca@gmail.com**
-
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/lucaquaglino/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
