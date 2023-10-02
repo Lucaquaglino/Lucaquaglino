@@ -8,8 +8,9 @@
  
 <h1 align="center" > Hi  👋🏼 , I'm Luca </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=A+passionate+full-stack+developer+from+italy+with+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
+<h1>
+ <img align="center" src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=3000&color=E46AF8D2&width=300&lines=Full-stack+developer;from+italy+with+love+%E2%9D%A4%EF%B8%8F">
+</h1>
 <h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>
 <div>
 <img align="right" alt="Coding" width="400" src="https://photos5.appleinsider.com/gallery/50559-99534-000-lead-App-Store-Foundations-xl.jpg">
