@@ -54,10 +54,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
   
   <br/><br/><br/>
 </div>
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&center=true&vCenter=true&width=435&lines=Thanks+for+the+visit+%F0%9F%AB%B6%F0%9F%8F%BC"> </h2>
 
