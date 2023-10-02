@@ -52,24 +52,22 @@
 ![](https://github-readme-stats.vercel.app/api?username=lucaquaglino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
 
-
-<div> 
-</br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
+  <br/><br/><br/>
 </div>
+
 
 
 <h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&center=true&vCenter=true&width=435&lines=Thanks+for+the+visit+%F0%9F%AB%B6%F0%9F%8F%BC"> </h2>
 
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+
   
-  <br/><br/><br/>
-</div>
 
