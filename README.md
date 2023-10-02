@@ -165,7 +165,7 @@
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Angular" src="https://img.shields.io/badge/https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F452156%2Fangular.svg?logo=angular&logoColor=white"></a>
-
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F452156%2Fangular.svg?logo=Angular">
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
