@@ -1,4 +1,4 @@
-#f03c15 #f03c15 #c5f015 #c5f015 #1589F0 #1589F0
+
 <div align="center">
  <img src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.medium.gif" alt="lucaquaglino" />
 
