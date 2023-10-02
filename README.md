@@ -1,4 +1,4 @@
-${\color{pink}Angular}$
+${\color{purple}Angular}$
 <div align="center">
  <img src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.medium.gif" alt="lucaquaglino" />
 
