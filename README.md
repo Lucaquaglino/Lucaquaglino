@@ -11,7 +11,7 @@
 
 
 
-<h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=26&duration=2000&pause=500&color=1976D2D2&center=true&vCenter=true&multiline=true&height=74&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F"> </h2>
+<h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=28&duration=2000&pause=500&center=true&vCenter=true&multiline=true&height=74&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F"> </h2>
 
 
 <!--<h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>-->
