@@ -56,8 +56,9 @@
 
 
 <div align="center">
-   <h2>🐍 My Contributions 🐍</h2>
+   <h2>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=10000000000000&color=E46AF8D2&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%90%8D+My+Contributions+%F0%9F%90%8D" alt="Typing SVG" />
+    </h2>
   <br>
  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
