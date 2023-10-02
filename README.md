@@ -3,7 +3,10 @@
  <img src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.medium.gif" alt="lucaquaglino" />
 
  </div>
-<h1 align="center" color="#FF5733"> Hi 👋, I'm Luca </h1>
+
+
+ 
+<h1 align="center"> Hi 👋, I'm Luca </h1>
 <h3 align="center">A passionate full-stack developer from Italy with ❤️</h3>
 <div>
 <img align="right" alt="Coding" width="400" src="https://photos5.appleinsider.com/gallery/50559-99534-000-lead-App-Store-Foundations-xl.jpg">
