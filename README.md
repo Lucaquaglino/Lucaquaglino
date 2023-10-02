@@ -56,10 +56,7 @@
 
 
 <!--<h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>-->
-<div>
-<img align="right" alt="Coding" width="400" src="https://photos5.appleinsider.com/gallery/50559-99534-000-lead-App-Store-Foundations-xl.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
-</div>
+
 
 
 
