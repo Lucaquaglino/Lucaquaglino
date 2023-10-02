@@ -40,3 +40,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaquaglino&theme=dark" alt="lucaquaglino" /></p>
 
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaquaglino&show_icons=true&theme=dracula&locale=en&layout=compact" alt="lucaquaglino" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaquaglino&show_icons=true&theme=dracula&locale=en" alt="lucaquaglino" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaquaglino&theme=highcontrast" alt="lucaquaglino" /></p>
+
+
