@@ -1,10 +1,10 @@
 
-<div align="center">
+
 <!-- <img height="400" width="1000" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif" alt="lucaquaglino" /> -->
   <!-- 
   <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/jeff-ostberg-cozy-autumn-rain.jpg" alt="lucaquaglino" />
 -->
- </div>
+
 
 <!--https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=3000&color=E46AF8D2&center=true&vCenter=true&width=300&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F-->
  <!--
