@@ -8,7 +8,7 @@
  
 <h1 align="center" > Hi  👋🏼 , I'm Luca </h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋🏼;I'm+Luca)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=:octocat:+A+passionate+full-stack+developer+from+Italy+with+❤️)](https://git.io/typing-svg)
 
 <h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>
 <div>
