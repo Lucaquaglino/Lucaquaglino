@@ -89,7 +89,7 @@
 
 
   <p align="left">
-    <a href="https://github.com/Lucaquaglino/Epic_Trading_FrontEn"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucaquaglino&repo=Epic_Trading_FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Lucaquaglino/Epic_Trading_FrontEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucaquaglino&repo=Epic_Trading_FrontEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/Lucaquaglino/Epic_Trading_BackEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucaquaglino&repo=Epic_Trading_BackEnd&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
