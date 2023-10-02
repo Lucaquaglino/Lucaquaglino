@@ -51,13 +51,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lucaquaglino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-  
-  <br/><br/><br/>
-</div>
 
 
 <div> 
