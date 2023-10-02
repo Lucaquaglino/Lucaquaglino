@@ -110,7 +110,7 @@
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
+<!-- LINGUAGGI PROGRAMMAZIONE
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
@@ -120,7 +120,7 @@
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
-
+<!-- LINGUAGGI PROGRAMMAZIONE
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="BlissfulJS" src="https://custom-icon-badges.demolab.com/badge/Bliss.js-3dacc2.svg?logo=bliss&logoColor=white"></a>
@@ -150,7 +150,7 @@
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
-
+<!-- LINGUAGGI PROGRAMMAZIONE
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
@@ -166,7 +166,7 @@
   </p>
 
   <h3>💻 Software and Tools</h3>
-
+<!-- LINGUAGGI PROGRAMMAZIONE
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
@@ -195,5 +195,5 @@
 
 
 
-  
+  -->
 
