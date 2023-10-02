@@ -15,8 +15,11 @@
     <img  src="https://readme-typing-svg.demolab.com?font=Poppins+&weight=100&size=30&duration=1&pause=100000000000000000&color=E46AF8D2&center=true&vCenter=true&width=435&height=74&lines=Luca+Quaglino"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=24&duration=2000&pause=500&color=E46AF8D2&center=true&vCenter=true&height=90&lines=Full-stack+developer;From+italy+with+love+;Angular+%26+Java+%E2%9D%A4%EF%B8%8F"></a>
+</p>
 
-<h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=28&duration=2000&pause=500&center=true&vCenter=true&multiline=true&height=90&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F"> </h2>
 
 
 <!--<h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>-->
