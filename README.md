@@ -1,4 +1,4 @@
-^color:\s*#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})$
+
 <div align="center">
  <img src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.medium.gif" alt="lucaquaglino" />
 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/lucaq7_" target="blank"><img src="https://img.shields.io/twitter/follow/lucaq7_?logo=twitter&style=for-the-badge" alt="lucaq7_" /></a> </p>
 
-- 🌱 I’m currently learning **at Epicode school,JS and Java**
+- 🌱@@ I’m currently learning **at Epicode school,JS and Java** @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucaquaglino](https://github.com/Lucaquaglino)
 
