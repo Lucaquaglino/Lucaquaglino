@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=24&duration=2000&pause=500&color=E46AF8D2&center=true&vCenter=true&height=90&lines=Full-stack+developer;From+italy+with+love+;Angular+%26+Java+%E2%9D%A4%EF%B8%8F"></a>
+    <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=24&duration=2000&pause=500&color=E46AF8D2&center=true&vCenter=true&lines=Full-stack+developer;From+italy+with+love+;Angular+%26+Java+%E2%9D%A4%EF%B8%8F"></a>
 </p>
 
 
