@@ -166,7 +166,8 @@
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular?logo=.net&logoColor=white"></a>
-        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AAngular"><img alt="Angular" src="https://img.shields.io/badge/Angular?logo=Angular&logoColor=white"></a>
+      <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular?logo=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F452156%2Fangular.svg"></a>
+
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
