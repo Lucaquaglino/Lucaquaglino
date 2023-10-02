@@ -26,11 +26,17 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/lucaq7_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucaq7_" height="30" width="40" /></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://linkedin.com/in/lucaquaglino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaquaglino" height="30" width="40" /></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://stackoverflow.com/users/22074888/luca-quaglino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="luca quaglino" height="30" width="40" /></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://fb.com/luca quaglino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luca quaglino" height="30" width="40" /></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://instagram.com/luke.q7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luke.q7" height="30" width="40" /></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://discord.gg/P8dDF3Sh9y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucaq7" height="30" width="40" /></a>
+   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
