@@ -1,6 +1,6 @@
 
 <div align="center">
- <img height="400" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif" alt="lucaquaglino" />
+ <img height="100" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif" alt="lucaquaglino" />
 
  </div>
 
