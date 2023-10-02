@@ -7,9 +7,9 @@
 
  
 <h1 align="center" > Hi  👋🏼 , I'm Luca </h1>
-<div>
+
  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋🏼;I'm+Luca)](https://git.io/typing-svg)
-</div>
+
 <h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>
 <div>
 <img align="right" alt="Coding" width="400" src="https://photos5.appleinsider.com/gallery/50559-99534-000-lead-App-Store-Foundations-xl.jpg">
