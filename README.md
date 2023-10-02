@@ -12,7 +12,7 @@
 -->
 <p align="center">
   <a href="https://github.com/DenverCoder1">
-    <img  src="https://readme-typing-svg.demolab.com?font=+young+serif&weight=100&size=30&duration=1&pause=100000000000000000&color=E46AF8D2&center=true&vCenter=true&width=435&height=40&lines=Luca+Quaglino"></a>
+    <img  src="https://readme-typing-svg.demolab.com?font=+young+serif&weight=100&duration=1&pause=100000000000000000&color=E46AF8D2&center=true&vCenter=true&width=435&height=40&lines=Luca+Quaglino"></a>
 </p>
 
 <p align="center">
