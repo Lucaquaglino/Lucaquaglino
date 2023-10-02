@@ -12,12 +12,12 @@
 <h1 align="center" >  <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&size=50&duration=1&pause=100000000000000000&color=E46AF8D2&center=true&vCenter=true&width=435&height=74&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Luca"> </h1>
 -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="">
     <img  src="https://readme-typing-svg.demolab.com?font=+young+serif&weight=100&duration=1&pause=100000000000000000&color=E46AF8D2&center=true&vCenter=true&width=435&height=40&lines=Luca+Quaglino"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="">
     <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=24&duration=2000&pause=500&color=E46AF8D2&center=true&vCenter=true&lines=Full-stack+developer;From+italy+with+love+;Angular+%26+Java+%E2%9D%A4%EF%B8%8F"></a>
 </p>
 
@@ -84,7 +84,7 @@
 </details>
 
 
-<details> 
+<details > 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -112,7 +112,7 @@
 
   </p>
 </details>
-<details> 
+<details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
