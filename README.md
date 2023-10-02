@@ -4,12 +4,12 @@
 
  </div>
 
-
+<!--https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=3000&color=E46AF8D2&center=true&vCenter=true&width=300&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F-->
  
 <h1 align="center" >  Hi 👋🏼, I'm Luca</h1>
 
-<h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=3000&color=E46AF8D2&center=true&vCenter=true&width=300&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F"> </h2>
- 
+<h2 align="center"  >&nbsp;&nbsp; <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=2000&color=E46AF8D2&center=true&vCenter=true&multiline=true&width=300&height=70&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F"> </h2>
+ ttps://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=2000&color=E46AF8D2&center=true&vCenter=true&multiline=true&width=300&height=70&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F
 
 <!--<h3 align="center"> :octocat: A passionate full-stack developer from Italy with ❤️</h3>-->
 <div>
