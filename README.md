@@ -45,8 +45,8 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
-</p>
+ <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
+
 
 <br/>
 
