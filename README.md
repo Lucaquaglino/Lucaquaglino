@@ -176,17 +176,7 @@
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Luca Quaglino's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lucaquaglino&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-
-1. 💪 Opened PR [#108](https://github.com/lucaquaglino/EPIC_ENERGY_SERVICES_FrontEnd/pull/108) in [DenverCoder1/unedit-for-reddit](https://github.com/Lucaquaglino/EPIC_ENERGY_SERVICES_FrontEnd)
-2. 🎉 Merged PR [#979](https://github.com/DenverCoder1/custom-icon-badges/pull/979) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. ❗️ Opened issue [#107](https://github.com/DenverCoder1/unedit-for-reddit/issues/107) in [DenverCoder1/unedit-for-reddit](https://github.com/DenverCoder1/unedit-for-reddit)
-4. ❗️ Closed issue [#43](https://github.com/DenverCoder1/dev-pro-tips-bot/issues/43) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-5. 🎉 Merged PR [#76](https://github.com/DenverCoder1/dev-pro-tips-bot/pull/76) in [DenverCoder1/dev-pro-tips-bot](https://github.com/DenverCoder1/dev-pro-tips-bot)
-<!--END_SECTION:activity-->
+ 
 
 </details>
 
