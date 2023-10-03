@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 
 <p align="center">
   <a href="">
-    <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=1000&size=24&duration=2000&pause=500&color=E46AF8D2&center=true&vCenter=true&lines=Full-stack+developer;From+italy+with+love+;Angular+%26+Java+%E2%9D%A4%EF%B8%8F"></a>
+    <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Developer;From+italy+with+love;Angular+%26+Java+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5"></a>
 </p>
 
 
