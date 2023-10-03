@@ -2,7 +2,7 @@
 
 <!-- <img height="400" width="1000" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif" alt="lucaquaglino" /> -->
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/jeff-ostberg-cozy-autumn-rain.jpg" alt="lucaquaglino" />
+  <img height="400" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" alt="lucaquaglino" />
 </div>
 <br>
 <br>
