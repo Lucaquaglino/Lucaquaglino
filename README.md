@@ -92,9 +92,9 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 <details > 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
+<p align="center">
   <h3>👨‍💻 Programming and Markup Languages</h3>
-
+</p>
   <p>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
      &#8287;&#8287;&#8287;&#8287;&#8287;
