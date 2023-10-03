@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 
 <!--TOP REPOSITORY-->
 <details open> 
-  <summary align="center"><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary ><h2 align="center">📘 My Top Open Source Projects</h2></summary>
 
 
   <p align="left">
