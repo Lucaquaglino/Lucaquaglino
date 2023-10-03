@@ -2,7 +2,7 @@
 
 <!-- <img height="400" width="1000" src="https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif" alt="lucaquaglino" /> -->
 <div align="center">
-  <img height="400" src="https://timeweb.com/ru/community/article/31/31202747f61941f62a523d74684ae961.png" alt="lucaquaglino" />
+  <img height="400" src="https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png" alt="lucaquaglino" />
 </div>
 <br>
 <br>
