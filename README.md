@@ -6,7 +6,11 @@
 </div>
 <br>
 <br>
+<!--
 https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/jeff-ostberg-cozy-autumn-rain.jpg
+
+-->
+
 <!--https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&duration=3000&color=E46AF8D2&center=true&vCenter=true&width=300&lines=Full-stack+developer;From+italy+with+love+%E2%9D%A4%EF%B8%8F-->
  <!--
 <h1 align="center" >  <img  src="https://readme-typing-svg.demolab.com?font=Roboto+mono&weight=100&size=50&duration=1&pause=100000000000000000&color=E46AF8D2&center=true&vCenter=true&width=435&height=74&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Luca"> </h1>
