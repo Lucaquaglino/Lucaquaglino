@@ -109,7 +109,8 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 
 </p>
   </p>
-
+  <br>
+  <br>
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p align="center" >
@@ -125,7 +126,8 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
        &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   </p>
-
+ <br>
+  <br>
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p align="center">
@@ -137,7 +139,8 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
        &#8287;&#8287;&#8287;&#8287;&#8287;
      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   </p>
-
+ <br>
+  <br>
   <h3>💻 Software and Tools</h3> 
   <p align="center">
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -151,6 +154,8 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 
 
   </p>
+   <br>
+  <br>
 </details>
 <details open> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
