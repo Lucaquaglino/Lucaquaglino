@@ -77,8 +77,9 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 
 <!--TOP REPOSITORY-->
 <details open> 
-  <summary ><h2 align="center">📘 My Top Open Source Projects</h2></summary>
-
+  <p align="center">
+  <summary ><h2 >📘 My Top Open Source Projects</h2></summary>
+</p>
 
   <p align="left">
     <a href="https://github.com/Lucaquaglino/Epic_Trading_FrontEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucaquaglino&repo=Epic_Trading_FrontEnd&theme=react&bg_color=1F222E&title_color=E46AF8D2&hide_border=true&icon_color=E46AF8D2&show_icons=false" alt="readme-typing-svg"></a>
