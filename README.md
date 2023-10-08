@@ -85,7 +85,7 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
     <a href="https://github.com/Lucaquaglino/Epic_Trading_FrontEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucaquaglino&repo=Epic_Trading_FrontEnd&theme=react&bg_color=1F222E&title_color=E46AF8D2&hide_border=true&icon_color=E46AF8D2&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/Lucaquaglino/Epic_Trading_BackEnd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucaquaglino&repo=Epic_Trading_BackEnd&theme=react&bg_color=1F222E&title_color=E46AF8D2&hide_border=true&icon_color=E46AF8D2&show_icons=false" alt="github-readme-streak-stats"></a>
 
-  <a href="https://github.com/Lucaquaglino?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Lucaquaglino?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 
