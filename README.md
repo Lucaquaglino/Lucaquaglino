@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
 
-
+ <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
 
 
 
