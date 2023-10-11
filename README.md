@@ -54,9 +54,9 @@ https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> 
+</p>
 
- <img src="https://komarev.com/ghpvc/?username=lucaquaglino&label=Profile%20views&color=ed499c&style=flat" alt="lucaquaglino" /> </p>
 
 
 
